@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>markdown on Example Site</title>
+        <title>markdown on 赵鑫桐</title>
         <link>https://www.weishikai1893.github.io/tags/markdown/</link>
-        <description>Recent content in markdown on Example Site</description>
+        <description>Recent content in markdown on 赵鑫桐</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language><atom:link href="https://www.weishikai1893.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>作品集 </title>
@@ -11,14 +11,12 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/</guid>
-        <description>&lt;img src="https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 作品集 " /&gt;&lt;h2 id=&#34;作品集&#34;&gt;作品集&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/1.jpg&#34;
+        <description>&lt;h2 id=&#34;作品集&#34;&gt;作品集&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/1.BMP&#34;
 	width=&#34;1920&#34;
 	height=&#34;17284&#34;
-	srcset=&#34;https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/1_hu798e42834946b914ccc6853fdf3468d6_12020684_480x0_resize_q75_box.jpg 480w, https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/1_hu798e42834946b914ccc6853fdf3468d6_12020684_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/1_hu798e42834946b914ccc6853fdf3468d6_12020684_480x0_resize_box.BMP 480w, https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/1_hu798e42834946b914ccc6853fdf3468d6_12020684_1024x0_resize_box.BMP 1024w&#34;
 	loading=&#34;lazy&#34;
-	
-		alt=&#34;image&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -32,8 +30,6 @@
 	srcset=&#34;https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/2_huce4eee46f8ede9d9343c93086c56fb87_9395822_480x0_resize_q75_box.jpg 480w, https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/2_huce4eee46f8ede9d9343c93086c56fb87_9395822_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;image&#34;
-	
 	
 		class=&#34;gallery-image&#34; 
 		data-flex-grow=&#34;11&#34;
@@ -45,8 +41,6 @@
 	height=&#34;12950&#34;
 	srcset=&#34;https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/3_hubb279d8dd17c2aa765f4dee45fe49b9f_7610517_480x0_resize_q75_box.jpg 480w, https://www.weishikai1893.github.io/p/%E4%BD%9C%E5%93%81%E9%9B%86/3_hubb279d8dd17c2aa765f4dee45fe49b9f_7610517_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
-	
-		alt=&#34;image&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
